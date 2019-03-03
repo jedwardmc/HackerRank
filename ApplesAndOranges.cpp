@@ -10,6 +10,8 @@
  *** - date: 03.03.2019
  *** - description:
  *** Inspired by a problem on the site HackerRank.
+ *** Take a look at the problem here:
+ *** https://www.hackerrank.com/challenges/apple-and-orange/problem
  ***/
 
 using namespace std;
