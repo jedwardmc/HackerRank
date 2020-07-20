@@ -57,6 +57,8 @@ int main() {
     return 0;
 }
 
+// a means of breaking apart strings and placing in vectors
+// ref: HackerRank 
 vector<string> split(string data) {
     string::iterator new_end = unique(data.begin(), data.end(), Predicate);
     
